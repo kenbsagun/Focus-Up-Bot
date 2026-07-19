@@ -3,6 +3,10 @@
 Focus Up Bot is an embedded Pomodoro study companion built with a
 Metro M0 Express and CircuitPython.
 
+## See It in Action
+
+[Watch the Focus Up Bot demo on YouTube](https://youtu.be/uJ1JSmlKQ8A)
+
 ## Features
 
 - 15-minute focus session
